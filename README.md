@@ -1,0 +1,1 @@
+# light-switch-for-home-assistant
